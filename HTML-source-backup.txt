@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#421B2A">
+  <meta name="description" content="With love and blessings, join us in Bhavnagar on 21–22 November 2026 to celebrate the weddings of Priyanka & Karan and Trupti & Dipak.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Two Sisters, One Beautiful Celebration | 22 November 2026">
+  <meta property="og:description" content="You are warmly invited to celebrate Priyanka & Karan and Trupti & Dipak in Bhavnagar, Gujarat.">
+  <meta name="color-scheme" content="light">
+  <title>Priyanka & Karan · Trupti & Dipak | Royal Wedding Invitation</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/script.js" defer></script>
+</head>
+<body class="opening-active">
+  <a class="skip-link" href="#main-content">Skip to invitation</a>
+
+  <!-- A ceremonial, motion-safe card opening. It never contains a photograph. -->
+  <div class="opening-screen" id="opening-screen" role="region" aria-label="Royal wedding invitation cover">
+    <div class="opening-aura" aria-hidden="true"></div>
+    <div class="opening-content">
+      <p class="opening-kicker">With love & blessings</p>
+      <div class="ceremonial-card" id="ceremonial-card" aria-hidden="true">
+        <div class="ceremonial-inner">
+          <div class="opening-line-art"><img src="assets/heritage-arch.svg" alt="" width="280" height="355"></div>
+          <div class="ceremonial-inner-message"><span>Two Sisters</span><small>One Beautiful Celebration</small></div>
+        </div>
+        <div class="ceremonial-door ceremonial-door--left"><span class="door-engraving" aria-hidden="true"></span></div>
+        <div class="ceremonial-door ceremonial-door--right"><span class="door-engraving" aria-hidden="true"></span></div>
+        <div class="ceremonial-seal"><span class="seal-glyph">✽</span></div>
+        <div class="ceremonial-sparkles" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+      </div>
+      <p class="opening-intro">A royal invitation to a celebration of love, family & new beginnings</p>
+      <button type="button" class="button button--maroon open-button" id="open-invitation">
+        <span>Open Your Invitation</span><span class="button-arrow" aria-hidden="true">✧</span>
+      </button>
+      <p class="opening-date">21 & 22 November 2026 <span aria-hidden="true">·</span> Bhavnagar</p>
+    </div>
+  </div>
+  <noscript><style>.opening-screen{display:none!important}body.opening-active{overflow:auto!important}</style></noscript>
+
+  <div class="site-shell" id="site-shell">
+    <header class="site-header" id="top">
+      <a href="#welcome" class="brand" aria-label="Back to wedding welcome"><span class="brand-ornament">✦</span><span>P & K <span class="brand-divider">✧</span> T & D</span></a>
+      <nav class="desktop-nav" aria-label="Main navigation">
+        <a href="#celebrations">Celebrations</a><a href="#our-story">Our Story</a><a href="#galleries">Photographs</a><a href="#venue">Venue</a>
+      </nav>
+      <div class="header-actions">
+        <a href="#venue" class="header-venue" aria-label="Go to wedding venue"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 21s7-7 7-12A7 7 0 1 0 5 9c0 5 7 12 7 12Z"/><circle cx="12" cy="9" r="2.4"/></svg><span>Venue</span></a>
+        <button type="button" class="header-share" id="header-share" aria-label="Share invitation"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="18" cy="5" r="2"/><circle cx="6" cy="12" r="2"/><circle cx="18" cy="19" r="2"/><path d="m8 11 8-5M8 13l8 5"/></svg></button>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <section class="hero-section" id="welcome" aria-labelledby="hero-title">
+        <div class="hero-corner hero-corner--tl" aria-hidden="true"></div><div class="hero-corner hero-corner--tr" aria-hidden="true"></div>
+        <div class="hero-inner">
+          <div class="hero-sun" aria-hidden="true">✺</div>
+          <p class="eyebrow eyebrow--gold">A DOUBLE WEDDING CELEBRATION</p>
+          <h1 id="hero-title">Two Sisters. <em>Two Love Stories.</em><br><span>One Beautiful Celebration.</span></h1>
+          <p class="hero-lead">Together, with our families, we joyfully invite you to witness two beautiful beginnings.</p>
+          <div class="hero-couples" aria-label="The two couples">
+            <article class="hero-couple reveal" style="--reveal-delay: 0ms">
+              <div class="hero-portrait photo-slot" data-photo="priyanka-karan-main">
+                <div class="photo-placeholder portrait-placeholder">
+                  <img src="assets/heritage-arch.svg" alt="" width="280" height="355">
+                  <span class="placeholder-label">Couple portrait</span>
+                </div>
+                <img class="photo-image" alt="Priyanka and Karan" loading="lazy" hidden>
+              </div>
+              <p class="couple-caption">WITH LOVE, INTRODUCING</p>
+              <h2 class="couple-names"><span>Priyanka</span><span class="amp">&</span><span>Karan</span></h2>
+            </article>
+            <div class="hero-between" aria-hidden="true"><span>✧</span></div>
+            <article class="hero-couple reveal" style="--reveal-delay: 110ms">
+              <div class="hero-portrait photo-slot" data-photo="trupti-dipak-main">
+                <div class="photo-placeholder portrait-placeholder">
+                  <img src="assets/heritage-arch.svg" alt="" width="280" height="355">
+                  <span class="placeholder-label">Couple portrait</span>
+                </div>
+                <img class="photo-image" alt="Trupti and Dipak" loading="lazy" hidden>
+              </div>
+              <p class="couple-caption">WITH LOVE, INTRODUCING</p>
+              <h2 class="couple-names"><span>Trupti</span><span class="amp">&</span><span>Dipak</span></h2>
+            </article>
+          </div>
+          <div class="hero-dateline"><span>21 & 22 NOVEMBER 2026</span><span class="hero-dateline-star" aria-hidden="true">✦</span><span>BHAVNAGAR, GUJARAT</span></div>
+          <a class="discover-link" href="#invitation">Discover our celebration <span aria-hidden="true">↓</span></a>
+        </div>
+      </section>
+
+      <section class="invitation-section section-pad" id="invitation" aria-labelledby="invitation-title">
+        <div class="section-wrap narrow">
+          <div class="ornament ornament--top reveal" aria-hidden="true"><span>❧</span> ✧ <span>❧</span></div>
+          <p class="eyebrow reveal">A HEARTFELT INVITATION</p>
+          <h2 class="section-title reveal" id="invitation-title">With hearts full of <em>joy & blessings</em></h2>
+          <div class="invitation-frame reveal">
+            <p>We invite you to celebrate the wedding of two beloved sisters as they begin beautiful new chapters of their lives.</p>
+            <p>Join us for two days of cherished traditions, laughter, music and unforgettable memories as <strong>Priyanka & Karan</strong> and <strong>Trupti & Dipak</strong> celebrate their love.</p>
+            <span class="invitation-frame-bottom" aria-hidden="true">✧ &nbsp; ✿ &nbsp; ✧</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="countdown-section section-pad" id="countdown" aria-labelledby="countdown-title">
+        <div class="section-wrap">
+          <p class="eyebrow eyebrow--gold reveal">A MOMENT TO CHERISH</p>
+          <h2 class="section-title section-title--light reveal" id="countdown-title">Counting Down to Our <em>Hast Melap</em></h2>
+          <p class="countdown-subtitle reveal">Sunday, 22 November 2026 · 11:45 AM IST</p>
+          <div class="countdown" role="timer" aria-label="Time remaining until the Hast Melap ceremony">
+            <div class="count-unit"><div class="flip-face" data-count="days"><span class="flip-number">00</span><span class="flip-line" aria-hidden="true"></span></div><span class="count-label">Days</span></div>
+            <span class="count-separator" aria-hidden="true">:</span>
+            <div class="count-unit"><div class="flip-face" data-count="hours"><span class="flip-number">00</span><span class="flip-line" aria-hidden="true"></span></div><span class="count-label">Hours</span></div>
+            <span class="count-separator" aria-hidden="true">:</span>
+            <div class="count-unit"><div class="flip-face" data-count="minutes"><span class="flip-number">00</span><span class="flip-line" aria-hidden="true"></span></div><span class="count-label">Minutes</span></div>
+            <span class="count-separator" aria-hidden="true">:</span>
+            <div class="count-unit"><div class="flip-face" data-count="seconds"><span class="flip-number">00</span><span class="flip-line" aria-hidden="true"></span></div><span class="count-label">Seconds</span></div>
+          </div>
+          <p class="countdown-celebration" id="countdown-celebration" hidden>✦ &nbsp; The beautiful beginning is here! &nbsp; ✦</p>
+        </div>
+      </section>
+
+      <section class="events-section section-pad" id="celebrations" aria-labelledby="celebrations-title">
+        <div class="section-wrap">
+          <p class="eyebrow reveal">THE CELEBRATIONS BEGIN</p>
+          <h2 class="section-title reveal" id="celebrations-title">A tapestry of <em>traditions</em></h2>
+          <p class="section-intro reveal">Two unforgettable days, filled with family, blessings and moments we will treasure forever.</p>
+          <div class="day-heading reveal"><span class="day-index">01</span><div><p>SATURDAY · 21 NOVEMBER 2026</p><h3>Pre-Wedding Celebrations</h3></div><span class="day-heading-decor" aria-hidden="true">✧</span></div>
+          <div class="event-grid event-grid--four">
+            <article class="event-card reveal" style="--reveal-delay: 0ms"><div class="event-art"><img src="assets/event-mandap-muhurat.svg" alt="" loading="lazy" decoding="async" width="680" height="420"></div><div class="event-icon-wrap"><svg class="event-icon" aria-hidden="true"><use href="assets/ornaments.svg#mandap"></use></svg></div><p class="event-number">CEREMONY 01</p><h4>Mandap Muhurat</h4><p class="event-time"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></svg>8:30 AM</p><p class="event-detail">A sacred and auspicious beginning.</p></article>
+            <article class="event-card reveal" style="--reveal-delay: 80ms"><div class="event-art"><img src="assets/event-mameru.svg" alt="" loading="lazy" decoding="async" width="680" height="420"></div><div class="event-icon-wrap"><svg class="event-icon" aria-hidden="true"><use href="assets/ornaments.svg#mameru"></use></svg></div><p class="event-number">CEREMONY 02</p><h4>Mameru</h4><p class="event-time"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></svg>10:00 AM</p><p class="event-detail">A cherished tradition of family blessings.</p></article>
+            <article class="event-card reveal" style="--reveal-delay: 160ms"><div class="event-art"><img src="assets/event-haldi.svg" alt="" loading="lazy" decoding="async" width="680" height="420"></div><div class="event-icon-wrap"><svg class="event-icon" aria-hidden="true"><use href="assets/ornaments.svg#haldi"></use></svg></div><p class="event-number">CEREMONY 03</p><h4>Haldi</h4><p class="event-time"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></svg>2:00 PM</p><p class="event-detail">Golden hues, laughter and heartfelt wishes.</p></article>
+            <article class="event-card reveal" style="--reveal-delay: 240ms"><div class="event-art"><img src="assets/event-sangeet.svg" alt="" loading="lazy" decoding="async" width="680" height="420"></div><div class="event-icon-wrap"><svg class="event-icon" aria-hidden="true"><use href="assets/ornaments.svg#sangeet"></use></svg></div><p class="event-number">CEREMONY 04</p><h4>Sangeet</h4><p class="event-time"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></svg>7:00 PM</p><p class="event-detail">An evening of music, dance and celebration.</p></article>
+          </div>
+          <p class="venue-pending reveal">Pre-wedding venue details will be shared once confirmed.</p>
+        </div>
+      </section>
+
+      <section class="wedding-day-section section-pad" id="wedding-day" aria-labelledby="wedding-title">
+        <div class="section-wrap">
+          <p class="eyebrow eyebrow--gold reveal">THE MOST BEAUTIFUL DAY</p>
+          <h2 class="section-title section-title--light reveal" id="wedding-title">A day of <em>new beginnings</em></h2>
+          <div class="day-heading day-heading--light reveal"><span class="day-index">02</span><div><p>SUNDAY · 22 NOVEMBER 2026</p><h3>The Wedding Day</h3></div><span class="day-heading-decor" aria-hidden="true">✧</span></div>
+          <div class="wedding-events">
+            <article class="wedding-event reveal has-event-art" style="--reveal-delay: 0ms"><div class="wedding-event-art"><img src="assets/event-baraat.svg" alt="" loading="lazy" decoding="async" width="680" height="420"></div><div class="wedding-event-icon"><svg class="event-icon" aria-hidden="true"><use href="assets/ornaments.svg#baraat"></use></svg></div><div class="wedding-event-text"><span>THE CELEBRATION ARRIVES</span><h4>Baraat Arrival</h4><p>7:00 AM</p></div><span class="wedding-event-flourish" aria-hidden="true">✦</span></article>
+            <article class="wedding-event reveal has-event-art" style="--reveal-delay: 110ms"><div class="wedding-event-art"><img src="assets/event-hast-melap.svg" alt="" loading="lazy" decoding="async" width="680" height="420"></div><div class="wedding-event-icon"><svg class="event-icon" aria-hidden="true"><use href="assets/ornaments.svg#hast"></use></svg></div><div class="wedding-event-text"><span>THE SACRED UNION</span><h4>Hast Melap</h4><p>11:45 AM</p></div><span class="wedding-event-flourish" aria-hidden="true">✦</span></article>
+          </div>
+          <a class="text-link text-link--gold" href="#venue">View wedding venue <span aria-hidden="true">↗</span></a>
+        </div>
+      </section>
+
+      <section class="story-section section-pad" id="our-story" aria-labelledby="story-title">
+        <div class="section-wrap story-layout">
+          <div class="story-photo photo-slot reveal" data-photo="sisters-together">
+            <div class="photo-placeholder story-placeholder"><img src="assets/heritage-arch.svg" alt="" width="280" height="355"><span class="story-photo-label">A photograph of the sisters<br>will be here</span></div>
+            <img class="photo-image" alt="Priyanka and Trupti together" loading="lazy" hidden>
+          </div>
+          <div class="story-copy">
+            <p class="eyebrow reveal">A BOND FOREVER</p>
+            <h2 class="section-title section-title--left reveal" id="story-title">From childhood memories to <em>beautiful new beginnings</em></h2>
+            <div class="story-rule reveal" aria-hidden="true">✧ ─── ✧</div>
+            <p class="reveal">Two sisters who grew up sharing laughter, memories and dreams are now beginning new chapters together.</p>
+            <p class="reveal">A celebration made even more special by the love of family and the blessings of those closest to them.</p>
+            <p class="story-signature reveal">Priyanka <span>&</span> Trupti</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="gallery-section section-pad" id="galleries" aria-labelledby="gallery-title">
+        <div class="section-wrap">
+          <p class="eyebrow reveal">MOMENTS TO TREASURE</p>
+          <h2 class="section-title reveal" id="gallery-title">Our love, in <em>pictures</em></h2>
+          <p class="section-intro reveal">A collection of cherished moments, with more memories to be shared soon.</p>
+          <div class="gallery-group reveal"><div class="gallery-heading"><span>01</span><h3>Priyanka <em>&</em> Karan</h3><span class="gallery-ornament" aria-hidden="true">✧</span></div>
+            <div class="gallery-grid" data-gallery="priyanka-karan">
+              <button class="gallery-tile photo-slot" data-photo="priyanka-karan-01" disabled aria-label="Priyanka and Karan photograph 1, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">✿</span><span>Photo 01</span></span><img class="photo-image" alt="Priyanka and Karan photograph 1" loading="lazy" hidden></button>
+              <button class="gallery-tile photo-slot" data-photo="priyanka-karan-02" disabled aria-label="Priyanka and Karan photograph 2, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">❧</span><span>Photo 02</span></span><img class="photo-image" alt="Priyanka and Karan photograph 2" loading="lazy" hidden></button>
+              <button class="gallery-tile photo-slot" data-photo="priyanka-karan-03" disabled aria-label="Priyanka and Karan photograph 3, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">✦</span><span>Photo 03</span></span><img class="photo-image" alt="Priyanka and Karan photograph 3" loading="lazy" hidden></button>
+              <button class="gallery-tile photo-slot" data-photo="priyanka-karan-04" disabled aria-label="Priyanka and Karan photograph 4, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">❀</span><span>Photo 04</span></span><img class="photo-image" alt="Priyanka and Karan photograph 4" loading="lazy" hidden></button>
+            </div>
+          </div>
+          <div class="gallery-group reveal"><div class="gallery-heading"><span>02</span><h3>Trupti <em>&</em> Dipak</h3><span class="gallery-ornament" aria-hidden="true">✧</span></div>
+            <div class="gallery-grid" data-gallery="trupti-dipak">
+              <button class="gallery-tile photo-slot" data-photo="trupti-dipak-01" disabled aria-label="Trupti and Dipak photograph 1, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">✿</span><span>Photo 01</span></span><img class="photo-image" alt="Trupti and Dipak photograph 1" loading="lazy" hidden></button>
+              <button class="gallery-tile photo-slot" data-photo="trupti-dipak-02" disabled aria-label="Trupti and Dipak photograph 2, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">❧</span><span>Photo 02</span></span><img class="photo-image" alt="Trupti and Dipak photograph 2" loading="lazy" hidden></button>
+              <button class="gallery-tile photo-slot" data-photo="trupti-dipak-03" disabled aria-label="Trupti and Dipak photograph 3, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">✦</span><span>Photo 03</span></span><img class="photo-image" alt="Trupti and Dipak photograph 3" loading="lazy" hidden></button>
+              <button class="gallery-tile photo-slot" data-photo="trupti-dipak-04" disabled aria-label="Trupti and Dipak photograph 4, coming soon"><span class="photo-placeholder gallery-placeholder"><span class="gallery-pattern" aria-hidden="true">❀</span><span>Photo 04</span></span><img class="photo-image" alt="Trupti and Dipak photograph 4" loading="lazy" hidden></button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="venue-section section-pad" id="venue" aria-labelledby="venue-title">
+        <div class="section-wrap">
+          <p class="eyebrow reveal">WE CAN'T WAIT TO SEE YOU</p>
+          <h2 class="section-title reveal" id="venue-title">The <em>wedding venue</em></h2>
+          <div class="venue-card reveal">
+            <div class="venue-information"><div class="venue-pin"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 21s7-7 7-12A7 7 0 1 0 5 9c0 5 7 12 7 12Z"/><circle cx="12" cy="9" r="2.4"/></svg></div><p class="eyebrow">SUNDAY · 22 NOVEMBER 2026</p><h3>Vataliya Prajapati<br>ni Vadi</h3><address>1926, Vadva, Bhavnagar,<br>Gujarat 364001, India</address><a class="button button--maroon maps-button" href="https://www.google.com/maps/search/?api=1&amp;query=Vataliya+Prajapati+ni+Vadi%2C+1926%2C+Vadva%2C+Bhavnagar%2C+Gujarat+364001%2C+India&amp;query_place_id=ChIJJTxBGABRXzkRCZM6q2i-c1E" target="_blank" rel="noopener noreferrer"><span>Get Directions</span><span aria-hidden="true">↗</span></a></div>
+            <div class="venue-qr-area"><span class="qr-corner" aria-hidden="true">✦</span><div class="venue-qr-frame"><img src="assets/wedding-venue-qr.png" width="288" height="288" alt="Scannable QR code for the wedding venue in Google Maps"></div><p>SCAN FOR DIRECTIONS</p><small>Open the location on Google Maps</small></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="blessing-section section-pad" aria-labelledby="blessing-title"><div class="section-wrap narrow"><span class="blessing-ornament reveal" aria-hidden="true">❦</span><p class="eyebrow eyebrow--gold reveal">WITH ALL OUR LOVE</p><h2 class="section-title section-title--light reveal" id="blessing-title">Your presence is our <em>greatest blessing.</em></h2><p class="blessing-message reveal">Together with our families, we look forward to celebrating these beautiful beginnings with you.</p><div class="blessing-names reveal"><span>Priyanka <em>&</em> Karan</span><i aria-hidden="true">✧</i><span>Trupti <em>&</em> Dipak</span></div><p class="blessing-date reveal">22 NOVEMBER 2026 <span aria-hidden="true">·</span> BHAVNAGAR, GUJARAT</p><button class="button button--outline" id="share-invitation" type="button"><span>Share This Invitation</span><span aria-hidden="true">↗</span></button></div></section>
+    </main>
+    <footer class="footer"><p>Made with love for two beautiful beginnings</p><span aria-hidden="true">✦</span><a href="#top">Back to top ↑</a></footer>
+  </div>
+
+  <dialog class="photo-dialog" id="photo-dialog" aria-label="Wedding photo viewer"><div class="dialog-toolbar"><p id="dialog-caption"></p><button class="dialog-close" id="dialog-close" type="button" aria-label="Close photo viewer">×</button></div><div class="dialog-media"><button class="dialog-nav" id="dialog-prev" type="button" aria-label="Previous photograph">‹</button><img id="dialog-photo" alt="Wedding photograph"><button class="dialog-nav" id="dialog-next" type="button" aria-label="Next photograph">›</button></div></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
